@@ -1,0 +1,397 @@
+			<tr class=alternate2>
+			<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://cloud.google.com/compute/" >
+					<img src="./static/google.jpg" />Google</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">n1-standard-1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">3.75</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Variavel</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">34.44</p></td>
+					<td style="display:none;">4</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">53.58</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">98.41</p></td>
+					
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.52</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					 <td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+                                        <td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./googlecloud" >
+                                        <img src="./static/cloud-icon.png" />Implantar</a></p></td>
+
+				</tr><tr>
+
+					<tr class=alternate2>
+			<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://cloud.google.com/compute/" >
+					<img src="./static/google.jpg" />Google</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">n1-standard-2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">7.5</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Variavel</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">68.89</p></td>
+					<td style="display:none;">8</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">106.07</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">194.64</p></td>
+					
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.52</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					 <td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+                                        <td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./googlecloud" >
+                                        <img src="./static/cloud-icon.png" />Implantar</a></p></td>
+
+				</tr><tr>
+
+					<tr class=alternate2>
+			<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://cloud.google.com/compute/" >
+					<img src="./static/google.jpg" />Google</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">n1-standard-4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">15</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Variavel</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">137.78</p></td>
+					<td style="display:none;">15</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">211.04</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">387.09</p></td>
+					
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.52</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					 <td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+                                        <td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./googlecloud" >
+                                        <img src="./static/cloud-icon.png" />Implantar</a></p></td>
+
+				</tr><tr>
+
+					<tr class=alternate2>
+			<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://cloud.google.com/compute/" >
+					<img src="./static/google.jpg" />Google</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">n1-standard-8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">30</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Variavel</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">275.55</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">420.98</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">771.99</p></td>
+					
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.52</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					 <td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+                                        <td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./googlecloud" >
+                                        <img src="./static/cloud-icon.png" />Implantar</a></p></td>
+
+				</tr><tr>
+
+					<tr class=alternate2>
+			<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://cloud.google.com/compute/" >
+					<img src="./static/google.jpg" />Google</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">n1-standard-16</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">60</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">16</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Variavel</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">551.11</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">840.87</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1543.97</p></td>
+					
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.52</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					 <td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+                                        <td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./googlecloud" >
+                                        <img src="./static/cloud-icon.png" />Implantar</a></p></td>
+
+				</tr><tr>
+
+					<tr class=alternate2>
+			<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://cloud.google.com/compute/" >
+					<img src="./static/google.jpg" />Google</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">n1-standard-32</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">32</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Beta</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Variavel</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">840.87</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1543.97</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">192449.66</p></td>
+					
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.52</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					 <td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+                                        <td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./googlecloud" >
+                                        <img src="./static/cloud-icon.png" />Implantar</a></p></td>
+
+				</tr><tr>
+
+					<tr class=alternate2>
+			<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://cloud.google.com/compute/" >
+					<img src="./static/google.jpg" />Google</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">n1-highmem-2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">13</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Variavel</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">80.92</p></td>
+					<td style="display:none;">15</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">123.56</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">227.44</p></td>
+					
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.52</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					 <td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+                                        <td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./googlecloud" >
+                                        <img src="./static/cloud-icon.png" />Implantar</a></p></td>
+
+				</tr><tr>
+
+					<tr class=alternate2>
+			<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://cloud.google.com/compute/" >
+					<img src="./static/google.jpg" />Google</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">n1-highmem-4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">26</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Variavel</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">161.83</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">247.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">454.88</p></td>
+					
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.52</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					 <td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+                                        <td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./googlecloud" >
+                                        <img src="./static/cloud-icon.png" />Implantar</a></p></td>
+
+				</tr><tr>
+
+					<tr class=alternate2>
+			<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://cloud.google.com/compute/" >
+					<img src="./static/google.jpg" />Google</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">n1-highmem-8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">52</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Variavel</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">323.67</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">494.25</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">907.58</p></td>
+					
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.52</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					 <td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+                                        <td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./googlecloud" >
+                                        <img src="./static/cloud-icon.png" />Implantar</a></p></td>
+
+				</tr><tr>
+
+					<tr class=alternate2>
+			<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://cloud.google.com/compute/" >
+					<img src="./static/google.jpg" />Google</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">n1-highmem-16</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">104</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">16</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Variavel</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">647.33</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">987.40</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1812.96</p></td>
+					
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.52</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					 <td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+                                        <td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./googlecloud" >
+                                        <img src="./static/cloud-icon.png" />Implantar</a></p></td>
+
+				</tr><tr>
+
+					<tr class=alternate2>
+			<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://cloud.google.com/compute/" >
+					<img src="./static/google.jpg" />Google</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">n1-highmem-32</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">32</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Beta</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Variavel</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">987.40</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1812.96</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">192449.66</p></td>
+					
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.52</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					 <td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+                                        <td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./googlecloud" >
+                                        <img src="./static/cloud-icon.png" />Implantar</a></p></td>
+
+				</tr><tr>
+
+					<tr class=alternate2>
+			<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://cloud.google.com/compute/" >
+					<img src="./static/google.jpg" />Google</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">n1-highcpu-2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1.80</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Variavel</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">43.74</p></td>
+					<td style="display:none;">2</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">66.70</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">122.47</p></td>
+					
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.52</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					 <td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+                                        <td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./googlecloud" >
+                                        <img src="./static/cloud-icon.png" />Implantar</a></p></td>
+
+				</tr><tr>
+
+					<tr class=alternate2>
+			<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://cloud.google.com/compute/" >
+					<img src="./static/google.jpg" />Google</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">n1-highcpu-4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">3.60</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Variavel</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">87.48</p></td>
+					<td style="display:none;">4</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">133.40</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">244.94</p></td>
+					
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.52</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					 <td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+                                        <td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./googlecloud" >
+                                        <img src="./static/cloud-icon.png" />Implantar</a></p></td>
+
+				</tr><tr>
+
+					<tr class=alternate2>
+			<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://cloud.google.com/compute/" >
+					<img src="./static/google.jpg" />Google</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">n1-highcpu-8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">7.20</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Variavel</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">174.95</p></td>
+					<td style="display:none;">8</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">266.81</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">489.87</p></td>
+					
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.52</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					 <td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+                                        <td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./googlecloud" >
+                                        <img src="./static/cloud-icon.png" />Implantar</a></p></td>
+
+				</tr><tr>
+
+					<tr class=alternate2>
+			<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://cloud.google.com/compute/" >
+					<img src="./static/google.jpg" />Google</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">n1-highcpu-16</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">14.40</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">16</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Variavel</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">349.91</p></td>
+					<td style="display:none;">15</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">533.61</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">979.74</p></td>
+					
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.52</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					 <td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+                                        <td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./googlecloud" >
+                                        <img src="./static/cloud-icon.png" />Implantar</a></p></td>
+
+				</tr><tr>
+
+					<tr class=alternate2>
+			<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://cloud.google.com/compute/" >
+					<img src="./static/google.jpg" />Google</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">n1-highcpu-32</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">32</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Beta</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Variavel</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">533.61</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">979.74</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">192449.66</p></td>
+					
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.52</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					 <td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+                                        <td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./googlecloud" >
+                                        <img src="./static/cloud-icon.png" />Implantar</a></p></td>
+
+				</tr><tr>
+
+					<tr class=alternate2>
+			<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://cloud.google.com/compute/" >
+					<img src="./static/google.jpg" />Google</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">f1-micro</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.60</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Variavel</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">6.56</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">10.93</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">19.68</p></td>
+					
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.52</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					 <td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+                                        <td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./googlecloud" >
+                                        <img src="./static/cloud-icon.png" />Implantar</a></p></td>
+
+				</tr><tr>
+
+					<tr class=alternate2>
+			<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://cloud.google.com/compute/" >
+					<img src="./static/google.jpg" />Google</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">g1-small</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1.70</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Variavel</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">17.50</p></td>
+					<td style="display:none;">2</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">27.34</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">50.30</p></td>
+					
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.52</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					 <td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+                                        <td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./googlecloud" >
+                                        <img src="./static/cloud-icon.png" />Implantar</a></p></td>
+
+				</tr><tr>
+
+		

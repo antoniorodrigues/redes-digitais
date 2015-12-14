@@ -1,0 +1,1849 @@
+			<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">t2.micro</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">7.31</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">14.62</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">29.25</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">t2.small</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">14.62</p></td>
+					<td style="display:none;">2</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">29.25</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">58.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">t2.medium</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">29.25</p></td>
+					<td style="display:none;">4</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">58.50</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">117.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">m3.medium</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">3.75</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1x4SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">39.38</p></td>
+					<td style="display:none;">4</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">78.75</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">157.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">m3.large</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">7.5</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1x32SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">78.75</p></td>
+					<td style="display:none;">8</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">157.50</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">315.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">m3.xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">15</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x40SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">157.50</p></td>
+					<td style="display:none;">15</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">315.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">630.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">m3.2xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">30</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x80SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">315.00</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">630.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1260.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c4.large</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">3.75</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">65.25</p></td>
+					<td style="display:none;">4</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">130.50</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">261.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c4.xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">7.5</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">130.50</p></td>
+					<td style="display:none;">8</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">261.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">522.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c4.2xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">15</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">261.00</p></td>
+					<td style="display:none;">15</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">522.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1044.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c4.4xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">30</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">16</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">522.00</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1044.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">2088.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c4.8xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">60</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">36</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1044.00</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">2088.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">4176.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.large</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">3.75</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x16SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">59.06</p></td>
+					<td style="display:none;">4</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">118.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">236.25</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">7.5</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x40SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">118.12</p></td>
+					<td style="display:none;">8</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">236.25</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">472.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.2xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">15</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x80SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">236.25</p></td>
+					<td style="display:none;">15</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">472.50</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">945.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.4xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">30</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">16</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x160SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">472.50</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">945.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1890.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.8xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">60</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">32</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x320SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">945.00</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1890.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">3780.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">g2.2xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">15</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">60SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">365.62</p></td>
+					<td style="display:none;">15</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">731.25</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1462.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">g2.8xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">60</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">32</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x120SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1462.50</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">2925.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">5850.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">r3.large</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">15</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1x32SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">98.44</p></td>
+					<td style="display:none;">15</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">196.88</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">393.75</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">r3.xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">30.5</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1x80SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">196.88</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">393.75</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">787.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">r3.2xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">61</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1x160SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">393.75</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">787.50</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1575.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">r3.4xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">122</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">16</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1x320SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">787.50</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1575.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">3150.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">r3.8xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">244</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">32</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x320SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1575.00</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">3150.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">6300.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">i2.xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">30.5</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1x800SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">479.81</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">959.62</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1919.25</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">i2.2xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">61</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x800SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">959.06</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1918.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">3836.25</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">i2.4xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">122</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">16</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4x800SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1918.12</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">3836.25</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">7672.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">i2.8xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">244</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">32</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8x800SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">3836.25</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">7672.50</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">15345.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">d2.xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">30.5</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">3x2000HDD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">388.12</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">776.25</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1552.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">d2.2xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">61</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">6x2000HDD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">776.25</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1552.50</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">3105.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">d2.4xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">122</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">16</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">12x2000HDD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1552.50</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">3105.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">6210.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">d2.8xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">244</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">36</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">24x2000HDD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">3105.00</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">6210.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">12420.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">t2.micro</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">10.12</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">20.25</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">40.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">t2.small</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">20.25</p></td>
+					<td style="display:none;">2</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">40.50</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">81.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">t2.medium</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">40.50</p></td>
+					<td style="display:none;">4</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">81.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">162.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">m3.medium</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">3.75</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1x4SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">74.81</p></td>
+					<td style="display:none;">4</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">149.62</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">299.25</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">m3.large</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">7.5</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1x32SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">149.62</p></td>
+					<td style="display:none;">8</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">299.25</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">598.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">m3.xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">15</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x40SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">299.25</p></td>
+					<td style="display:none;">15</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">598.50</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1197.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">m3.2xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">30</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x80SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">598.50</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1197.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">2394.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c4.large</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">3.75</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">111.94</p></td>
+					<td style="display:none;">4</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">223.88</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">447.75</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c4.xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">7.5</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">223.88</p></td>
+					<td style="display:none;">8</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">447.75</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">895.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c4.2xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">15</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">447.75</p></td>
+					<td style="display:none;">15</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">895.50</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1791.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c4.4xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">30</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">16</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">895.50</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1791.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">3582.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c4.8xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">60</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">36</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1791.00</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">3582.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">7164.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.large</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">3.75</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x16SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">105.75</p></td>
+					<td style="display:none;">4</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">211.50</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">423.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">7.5</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x40SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">211.50</p></td>
+					<td style="display:none;">8</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">423.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">846.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.2xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">15</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x80SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">423.00</p></td>
+					<td style="display:none;">15</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">846.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1692.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.4xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">30</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">16</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x160SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">846.00</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1692.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">3384.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.8xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">60</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">32</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x320SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1692.00</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">3384.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">6768.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">g2.2xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">15</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">60SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">431.44</p></td>
+					<td style="display:none;">15</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">862.88</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1725.75</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">g2.8xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">60</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">32</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x120SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1618.88</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">3237.75</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">6475.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">r3.large</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">15</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1x32SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">168.75</p></td>
+					<td style="display:none;">15</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">337.50</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">675.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">r3.xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">30.5</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1x80SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">337.50</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">675.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1350.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">r3.2xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">61</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1x160SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">607.50</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1215.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">2430.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">r3.4xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">122</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">16</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1x320SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1093.50</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">2187.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">4374.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">r3.8xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">244</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">32</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x320SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1968.75</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">3937.50</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">7875.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">i2.xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">30.5</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1x800SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">547.31</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1094.62</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">2189.25</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">i2.2xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">61</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x800SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1094.62</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">2189.25</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">4378.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">i2.4xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">122</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">16</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4x800SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2188.69</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">4377.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">8754.75</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">i2.8xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">244</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">32</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8x800SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4377.38</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">8754.75</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">17509.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">d2.xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">30.5</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">3x2000HDD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">461.81</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">923.62</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1847.25</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">d2.2xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">61</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">6x2000HDD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">900.56</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1801.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">3602.25</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">d2.4xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">122</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">16</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">12x2000HDD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1722.38</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">3444.75</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">6889.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">d2.8xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">244</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">36</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">24x2000HDD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">3486.38</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">6972.75</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">13945.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.16</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.31</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> US </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">t2.micro</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">15.19</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">30.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">60.75</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">t2.small</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">30.38</p></td>
+					<td style="display:none;">2</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">60.75</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">121.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">t2.medium</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">60.75</p></td>
+					<td style="display:none;">4</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">121.50</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">243.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">m3.medium</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">3.75</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1x4SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">53.44</p></td>
+					<td style="display:none;">4</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">106.88</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">213.75</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">m3.large</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">7.5</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1x32SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">106.88</p></td>
+					<td style="display:none;">8</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">213.75</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">427.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">m3.xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">15</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x40SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">214.31</p></td>
+					<td style="display:none;">15</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">428.62</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">857.25</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">m3.2xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">30</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x80SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">428.06</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">856.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1712.25</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.large</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">3.75</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x16SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">91.69</p></td>
+					<td style="display:none;">4</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">183.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">366.75</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">7.5</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x40SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">182.81</p></td>
+					<td style="display:none;">8</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">365.62</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">731.25</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.2xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">15</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x80SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">365.62</p></td>
+					<td style="display:none;">15</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">731.25</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1462.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.4xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">30</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">16</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x160SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">731.25</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1462.50</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">2925.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.8xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Linux</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">60</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">32</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x320SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1462.50</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">2925.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">5850.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">t2.micro</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">18.00</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">36.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">72.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">t2.small</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">36.00</p></td>
+					<td style="display:none;">2</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">72.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">144.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">t2.medium</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">ebsonly</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">72.00</p></td>
+					<td style="display:none;">4</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">144.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">288.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">m3.medium</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">3.75</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1x4SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">88.88</p></td>
+					<td style="display:none;">4</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">177.75</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">355.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">m3.large</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">7.5</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1x32SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">177.75</p></td>
+					<td style="display:none;">8</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">355.50</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">711.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">m3.xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">15</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x40SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">356.06</p></td>
+					<td style="display:none;">15</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">712.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1424.25</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">m3.2xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">30</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x80SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">711.56</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1423.12</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">2846.25</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.large</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">3.75</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x16SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">138.38</p></td>
+					<td style="display:none;">4</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">276.75</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">553.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">7.5</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">4</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x40SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">276.19</p></td>
+					<td style="display:none;">8</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">552.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1104.75</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.2xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">15</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">8</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x80SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">552.38</p></td>
+					<td style="display:none;">15</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">1104.75</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">2209.50</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.4xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">30</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">16</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x160SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">1104.75</p></td>
+					<td style="display:none;">30</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">2209.50</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">4419.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+					<tr class=alternate2>
+						<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://aws.amazon.com/" >
+					<img src="./static/aws.jpg" />Amazon WS</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">c3.8xlarge</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">Windows</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">60</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">32</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2x320SSD</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">2209.50</p></td>
+					<td style="display:none;">1</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">4419.00</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">8838.00</p></td>
+										
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">0.38</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">0.59</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> BR-1 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="./awscloud" >
+					<img src="./static/cloud-icon.png" />Implantar</a></p></td>
+				</tr><tr>
+
+		

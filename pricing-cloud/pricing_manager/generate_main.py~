@@ -1,0 +1,85 @@
+import datetime
+import pricing_aws_search
+import pricing_google_search 
+import pricing_azure_search 
+import pricing_rackspace_search 
+import pricing_national_servers
+from util import *
+from data.config import *
+import os
+
+
+DIFF_DAYS_TO_UPDATE = 0
+
+
+def verify_date():
+	current_date =  datetime.datetime.now()
+	change = False
+	
+	try:
+		log = open("data/log.data", "r")
+		date = log.read().split('-')
+		log.close()
+		log_date = datetime.datetime(int(date[0]), int(date[1]), int(date[2][0:2]))
+		print abs((current_date - log_date).days)	
+		if abs((current_date - log_date).days) >= DIFF_DAYS_TO_UPDATE:		
+			log = open("data/log.data", "w")
+			str_log  = str(datetime.datetime.now())+"|||" + str(update_cot())
+			log.write(str_log)
+			log.close()
+			change = True
+	except:		
+		log = open("data/log.data", "w")
+		log.write(str(current_date))
+		log.close()
+		change = True
+	return change
+
+
+def update():
+	file_ = open("../templates/index.html", "w")
+	data_aws = open('data/aws.data', 'r').read()
+	data_google = open('data/google.data', 'r').read()
+	data_azure = open('data/azure.data', 'r').read()
+	data_rackspace = open('data/rackspace.data', 'r').read()
+	data_uol = open('data/uol.data', 'r').read()
+	data_locaweb = open('data/locaweb.data', 'r').read()
+	print 'ok update'
+
+	file_.write(HEAD + data_aws + data_google
+				+ data_azure + data_rackspace + data_uol + data_locaweb + FOOTER)
+
+	
+
+
+def main():
+	print "init..."
+	select_dic()
+	print "path ok..."
+	if verify_date():
+		try:
+			pricing_aws_search.main()
+			#pricing_google_search.main()
+			#pricing_azure_search.main()
+			pricing_rackspace_search.main()
+			pricing_national_servers.main()
+			update()
+		except Exception as detail:
+			print 'error', detail
+			update()
+
+
+
+
+
+def select_dic():
+	try:
+		os.chdir('pricing_manager')
+	except:
+		os.chdir('.')
+		
+def test():
+	print 'Test manager ok!'
+
+#main()
+#print verify_date()

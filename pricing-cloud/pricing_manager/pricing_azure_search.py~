@@ -1,0 +1,192 @@
+#coding: utf-8
+
+### Azure pricing search ###
+import urllib2 
+import requests
+import lxml.html
+import unicodedata
+from util import *
+
+regions = ['us-east', 'us-west', 'us-north-central', 'us-south-central', 'europe-north', 'europe-west', 
+			'asia-pacific-southeast',  'asia-pacific-east', 'japan-east', 'japan-west', 'brazil-south',
+			'us-east-2', 'us-central', 
+			'usgov-virginia', 'usgov-iowa',
+			'australia-east', 'australia-southeast']
+
+def get_instances_azure():
+	so = 'windows'
+	instances_names = []
+	instances = []
+	type_ = 'basic'
+	p = LinksParser()
+	s = requests.Session()
+
+	html_request = s.get('http://azure.microsoft.com/pt-br/pricing/details/virtual-machines/').text
+
+	title = "u'\xf3'"  
+	try:
+		html_request = unicodedata.normalize('NFKD', html_request).encode('ascii','ignore')
+	except TypeError:
+		pass
+
+	h = html_request.decode("iso-8859-1").encode('utf8').replace('&#226;', 'a').replace('&#250;', 'u').replace('&#231;', 'c')
+	p = LinksParser()
+	p.feed(h)
+
+	i = 0
+
+	while i < 4000:
+		if not contains_digits(p.data[i]) or len(p.data[i]) > 10:
+			i+=1
+		elif not '$' in p.data[i]:
+			typeinst = p.data[i][1]
+			c = instances_names.count(p.data[i])
+			if c == 0:
+				instances_names.append(p.data[i])
+			elif c == 1:
+				instances_names.append(p.data[i])
+				type_ = 'standard'
+			else:
+				instances_names.append(p.data[i])
+				so= 'linux'
+				type_ = 'basic'
+			
+			if typeinst == 'D':
+				type_ = 'optimized'
+			if '$' in p.data[i+4]:
+				break
+		
+			dic = {"name":p.data[i], "nucleos":p.data[i+1], "mem":p.data[i+2], 
+						"disk":p.data[i+4], "so":so, "type":type_}
+			i+= 5
+		else:
+			prices_h = [z for z in p.data[i:i+34] if 'h' not in z]
+			i+= 34
+			prices_m = [z for z in p.data[i:i+34] if 'mo' not in z]
+			i+= 34
+
+			
+			dic['prices_h'] = prices_h
+			dic['prices_m'] = prices_m
+		
+			instances.append(dic)
+			
+	p.close()
+	instances_final_list = []
+	for i in instances:
+		for r in range(len(regions)):
+			dic = {"type":i["name"], "vCPU":i["nucleos"], "memoryGiB":i["mem"], 
+						"storageGB":i["disk"], "so":i["so"], "type_service":i["type"]}
+			dic["price_per_hour"] = i['prices_h'][r]
+			dic["price_per_month"] = i['prices_m'][r]
+			dic["region"] = regions[r]
+			instances_final_list.append(dic)
+
+	return instances_final_list
+
+
+HEAD_AZURE = """
+
+<table id="tableazure" cellpadding="0" cellspacing="0">
+    <tr>
+        <th>Region</th>
+        <th>Instance type</th>
+        <th>Service type</th>
+        <th>System</th>
+        <th>Virtual Cores</th>
+        <th>Memory (GB)</th>
+        <th>Disk Size (GB)</th>
+        <th>Price (per hour)</th>
+        <th>Price (per month)</th>
+    </tr>
+<tr>
+"""
+FOOTER_AZURE = """</table>
+  
+<script type='text/javascript'>//<![CDATA[ 
+
+var tableazure_Props = {
+    col_0: "select",
+    col_1: "select",
+    col_2: "select",
+    col_3: "select",
+    col_4: "select",
+    col_5: "select",
+    col_6: "select",
+    col_7: "select",
+    col_8: "select",
+    display_all_text: " [ Show all ] ",
+    sort_select: true
+};
+var tfazure = setFilterGrid("tableazure", tableazure_Props);
+//]]>  
+
+</script>
+"""
+
+
+
+
+def generate_body_azure():
+	list_dic = get_instances_azure()
+	body_azure = ""
+	
+	for dic in list_dic:
+		body_azure+= """\n<tr>
+		   <th>%s</th>
+		   <th>%s</th>
+		   <th>%s</th>
+		   <th>%s</th>
+		   <th>%s</th>
+		   <th>%s</th>
+		   <th>%s</th>
+		   <th>%s</th>
+		   <th>%s</th>
+		</tr>\n"""%(dic['region'], dic['type'], dic['type_service'], dic['so'], dic['vCPU'], 
+		 dic['memoryGiB'], dic['storageGB'], dic['price_per_hour'], dic['price_per_month'])
+	return HEAD_AZURE + body_azure + FOOTER_AZURE
+
+
+def get_tab(hours=3, days=30):
+	ss = []
+	cot = get_cot()
+	for i in [i for i in get_instances_azure() if i['region'][0:4] == 'us-c' or i['region'][0:3] == 'bra']:
+		region = REG_US
+		if i['region'][0:3] == 'bra':
+			region = REG_BR1
+		price= i['price_per_hour'].replace('$','').replace(',','.')
+		w = """			<tr class=alternate2>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"><a href="https://azure.com/" >
+					<img src="./static/azure.jpg" />Azure</a></p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">%s</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">%s</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">%s</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">%s</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">%s</p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92">%s</p></td>
+					<td style="display:none;">%s</td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">%s</p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92">%s</p></td>
+					
+					
+					
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> -- </p></td>
+					<td style="display:none;" talk-marker="91" class="confluenceTd"><p talk-marker="92"> -- </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> 0.0 </p></td>
+					<td talk-marker="91" class="confluenceTd"><p talk-marker="92"> %s </p></td>
+				</tr><tr>\n
+		"""%((i['type'] + ' (' + i['type_service']+')'), i['so'].capitalize(), i['memoryGiB'], i['vCPU'], i['storageGB'], 
+		"%.2f" %(cot*days*6*float(price)), get_memory_default(i['memoryGiB']), 
+		"%.2f" %(cot*days*12*float(price)), "%.2f" %(cot*days*24*float(price)), region)
+		ss.append(w)
+		
+	file_ = open('data/azure.data', 'w')
+	file_.writelines(ss)
+	file_.close()
+
+
+def main():
+	get_tab()	
+	print 'ok azure'
+
+
