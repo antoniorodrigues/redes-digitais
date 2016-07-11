@@ -1,0 +1,19 @@
+header {
+    display: none;
+}
+body {
+    background: none;
+    background-color: white;
+}
+.bottom {
+    display: none;
+
+}
+div#page-content.row-fluid {
+    background-color: white;
+    margin: 0;
+    border-radius: 0;
+    border: 0;
+    box-shadow: none;
+}
+

@@ -1,0 +1,75 @@
+*{
+        margin:0;
+        padding: 0;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+  min-height: 100%;
+  background: url(../login/images/bg_top.png) top center no-repeat;
+}
+
+
+.navbar-inner {
+	background-image: linear-gradient(to bottom,#F97D6D,#F97D6D);
+	border: 1px solid #F97D6D;
+	height: 65px;
+}
+
+top {
+  padding: 0px 0;
+  display: block;
+  position: relative;
+}
+.top .logo{
+    /*width: 110%;*/
+    float: left;
+    height: auto;
+    background: #78909c;
+    box-sizing: border-box;
+    padding: 14px 0;
+    position: relative;
+    margin-left: 14px;
+}
+.top .logo:after{
+    content: " ";
+    width: 20px;
+    height: 20px;
+    background: #4a5a62;
+    position: absolute;
+    bottom: 4px;
+    left: -10px;
+    z-index: -1;
+    transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+
+}
+.top .logo:before{
+    content: " ";
+    width: 20px;
+    height: 20px;
+    background: #4a5a62;
+    position: absolute;
+    bottom: 4px;
+    right:-10px;
+    z-index: -1;
+    transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+
+}
+
+.li_image_top {
+    background-color: #F97D6D;
+    height: 65px;
+    width: 250px;
+}
+
+.image_top {
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 51px;
+    width: 190px;
+}

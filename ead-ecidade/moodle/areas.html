@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html lang="en" ng-app="AreasApp">
+<head>
+	<title>Bootstrap Example</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js"></script>
+	<script src="js/areas-script.js"></script>
+	<script src="js/areas-view.js"></script>
+
+</head>
+<body ng-controller="AreasController">
+
+ <style>
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+li {
+    float: left;
+    border-bottom-width: 0;
+    margin: 3px 3px 0px 3px;
+    padding: 5px 5px 0px 5px;
+    background-color:  #FFF;;
+    color: #696969;
+}
+#mainView {
+    background-color: #eee;
+	clear: both;
+	width: 925px;
+	margin-left: 3px;
+    padding: 20px 40px;
+}
+img.icon-area { width: 80px; height: 80px;}
+.off { padding: 5px 15px;}
+
+.active {
+    background-color: #eee;
+    color: #000;
+}
+  </style>
+
+    <div>
+        <ul>
+            <li ng-repeat="tab in tabs" 
+                class="off" ng-class="{active:isActiveTab(tab.url)}" 
+                ng-click="onClickTab(tab)"><a href="" ><img class="icon-area" ng-src="{{tab.src}}"></a></li>
+        </ul>
+        <div id="mainView">
+        
+			<h4 style="color: darkgrey;">{{currentArea.title}}</h4>
+      <p>{{currentArea.texto}}     
+      </p>
+</div>
+</body>
+</html>
+
+

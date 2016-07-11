@@ -1,0 +1,262 @@
+	 <!-- Bootstrap core CSS -->
+    <link href="https://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="https://getbootstrap.com/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="https://getbootstrap.com/examples/navbar-fixed-top/navbar-fixed-top.css" rel="stylesheet">
+
+    <link href="http://getbootstrap.com/2.3.2/assets/css/bootstrap-responsive.css" rel="stylesheet">
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="https://getbootstrap.com/assets/js/ie-emulation-modes-warning.js"></script>
+
+    <link rel="stylesheet" href="./style.css">
+
+
+
+  <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+
+             <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span> 
+          </button>
+
+        <div class="li_image_top"> <section class="top">
+                <nav class="principal">
+            <article class="logo">
+                <img src="images/logo_ecidade.png" title="Logo e-Cidade" class="image_top" alt="">
+            </article>
+        </section></div> 
+
+
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+
+          <ul class="nav navbar-nav navbar-center">
+     
+
+	<!--	<li class="li_image_top"> 
+		<section class="top">
+        		<nav class="principal">
+		            <article class="logo">
+                		<img src="images/logo_ecidade.png" title="Logo e-Cidade" class="image_top" alt="">
+	            </article>
+        	</section></li> -->
+	    		<li><a href="#inicio">INÍCIO</a></li>
+	    		<li><a href="#sobre">SOBRE OS CURSOS</a></li>
+			<li><a href="#videoaulas">INSTRUÇÕES</a></li>
+
+
+          </ul>
+        </div>  
+      </div>
+    </nav>
+
+
+
+
+ <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="https://getbootstrap.com/dist/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="https://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+	<header class="top default_size">
+		<!-- <figure class="logo"><img src="images/logo_ead.png" alt=""></figure>-->
+		<section class="new_user"><h3>Ainda não é aluno?</h3>
+		<button onclick="location.href='http://moodle.cloud.citta.org.br/moodle/login/signup.php?';" class="bt_second_action bt_main">Cadastre-se Grátis</button></section>
+		<section class="clear"></section> <!-- Quebra de linhas -->
+	</header> <!-- FIm da Header -->
+<?php
+if ($show_instructions) {
+    $columns = 'twocolumns';
+} else {
+    $columns = 'onecolumn';
+}
+
+if (!empty($CFG->loginpasswordautocomplete)) {
+    $autocomplete = 'autocomplete="off"';
+} else {
+    $autocomplete = '';
+}
+if (empty($CFG->authloginviaemail)) {
+    $strusername = get_string('username');
+} else {
+    $strusername = get_string('usernameemail');
+}
+?>
+	<section class="content default_size">
+<div class="loginbox clearfix <?php echo $columns ?>">
+  <div class="loginpanel">
+<?php
+  if (($CFG->registerauth == 'email') || !empty($CFG->registerauth)) { ?>
+      <div class="skiplinks"><a class="skip" href="signup.php"><?php print_string("tocreatenewaccount"); ?></a></div>
+<?php
+  } ?>
+<section class="entrada login">
+<h3>Bem-Vindo</h3>
+			<p class="dica">Se você já é aluno, digite abaixo seu usuário e sua senha para ter acesso à plataforma</p>
+    <h2><?php print_string("login") ?></h2>
+      <div class="subcontent loginsub">
+        <?php
+          if (!empty($errormsg)) {
+              echo html_writer::start_tag('div', array('class' => 'loginerrors'));
+              echo html_writer::link('#', $errormsg, array('id' => 'loginerrormessage', 'class' => 'accesshide'));
+              echo $OUTPUT->error_text($errormsg);
+              echo html_writer::end_tag('div');
+          }
+        ?>
+        <form action="<?php echo $CFG->httpswwwroot; ?>/login/index.php" method="post" id="login" <?php echo $autocomplete; ?> >
+          <div class="loginform">
+           <!--  <div class="form-label"><label for="username"><?php echo($strusername) ?></label></div> -->
+	    <p class="user_label">Usuário (e-mail)</p>
+            <div class="form-input" style="float:left;">
+              <input type="text" name="username" id="username" size="15" class="input_main" placeholder="nome@dominio.com" value="<?php p($frm->username) ?>" />
+            </div>
+            <div class="clearer"><!-- --></div>
+           <!--  <div class="form-label"><label for="password"><?php print_string("password") ?></label></div> -->
+	    <p class="senha_label">Senha</p>
+            <div class="form-input"  style="float:left;">
+              <input type="password" name="password" id="password" class="input_main" placeholder="********" size="15" value="" <?php echo $autocomplete; ?> />
+            </div>
+          </div>
+            <div class="clearer"><!-- --></div>
+              <?php if (isset($CFG->rememberusername) and $CFG->rememberusername == 2) { ?>
+              <div class="rememberpass">
+                  <input type="checkbox" name="rememberusername" id="rememberusername" value="1" <?php if ($frm->username) {echo 'checked="checked"';} ?> />
+                  <label for="rememberusername"><?php print_string('rememberusername', 'admin') ?></label>
+              </div>
+              <?php } ?>
+          <div class="clearer"><!-- --></div>
+          <input type="submit" id="loginbtn" value="<?php print_string("login") ?>" />
+          <div class="forgetpass"><a href="forgot_password.php"><?php print_string("forgotten") ?></a></div>
+        </form>
+        <div class="desc">
+            <?php
+                echo get_string("cookiesenabled");
+                echo $OUTPUT->help_icon('cookiesenabled');
+            ?>
+        </div>
+      </div>
+</sction>
+<?php if ($CFG->guestloginbutton and !isguestuser()) {  ?>
+      <div class="subcontent guestsub">
+        <div class="desc">
+          <?php print_string("someallowguest") ?>
+        </div>
+        <form action="index.php" method="post" id="guestlogin">
+          <div class="guestform">
+            <input type="hidden" name="username" value="guest" />
+            <input type="hidden" name="password" value="guest" />
+            <input type="submit" value="<?php print_string("loginguest") ?>" />
+          </div>
+        </form>
+      </div>
+<?php } ?>
+     </div>
+<?php if ($show_instructions) { ?>
+
+
+<section class="entrada cursos_disponiveis">
+			<h3>Cursos Disponíveis</h3>
+			<ul>
+				<li class="lista">
+					<p class="titulo">Módulo Farmácia (área Saúde)</p>
+					<p>Professor: Silibrina Tecnologia</p>
+				</li>
+				<li class="lista">
+					<p class="titulo">Módulo agendamento (área Saúde)</p>
+					<p>Professor: Silibrina Tecnologia</p>
+				</li>
+				<li class="lista">
+					<p class="titulo">Módulo ambulatório (área Saúde)</p>
+					<p>Professor: Silibrina Tecnologia</p>
+				</li>
+				<li class="lista">
+					<p class="titulo">Módulo laboratório (área Saúde)</p>
+					<p>Professor: Silibrina Tecnologia</p>
+				</li>
+				<li class="lista">
+					<p class="titulo">Módulo Vacinas (área Saúde)</p>
+					<p>Professor: Silibrina Tecnologia</p>
+				</li>
+			</ul>
+		</section>
+    <div class="signuppanel" style="display:none;">
+      <h2><?php print_string("firsttime") ?></h2>
+      <div class="subcontent">
+<?php     if (is_enabled_auth('none')) { // instructions override the rest for security reasons
+              print_string("loginstepsnone");
+          } else if ($CFG->registerauth == 'email') {
+              if (!empty($CFG->auth_instructions)) {
+                  echo format_text($CFG->auth_instructions);
+              } else {
+                  print_string("loginsteps", "", "signup.php");
+              } ?>
+                 <div class="signupform">
+                   <form action="signup.php" method="get" id="signup">
+                   <div><input type="submit" value="<?php print_string("startsignup") ?>" /></div>
+                   </form>
+                 </div>
+<?php     } else if (!empty($CFG->registerauth)) {
+              echo format_text($CFG->auth_instructions); ?>
+              <div class="signupform">
+                <form action="signup.php" method="get" id="signup">
+                <div><input type="submit" value="<?php print_string("startsignup") ?>" /></div>
+                </form>
+              </div>
+<?php     } else {
+              echo format_text($CFG->auth_instructions);
+          } ?>
+      </div>
+    </div>
+<?php } ?>
+<?php if (!empty($potentialidps)) { ?>
+    <div class="subcontent potentialidps">
+        <h6><?php print_string('potentialidps', 'auth'); ?></h6>
+        <div class="potentialidplist">
+<?php foreach ($potentialidps as $idp) {
+    echo  '<div class="potentialidp"><a href="' . $idp['url']->out() . '" title="' . $idp['name'] . '">' . $OUTPUT->render($idp['icon'], $idp['name']) . $idp['name'] . '</a></div>';
+} ?>
+        </div>
+    </div>
+<?php } ?>
+</div>
+</section>
+<!--  <footer class="default_size">
+		<section class="desenvolvido">
+			<p>Desenvolvido em:</p>
+			<img src="images/logo_moodle.png" alt="">
+		</section>
+
+		<section class="realizacao">
+			<p>Patrocinado e Desenvolvido por:</p>
+			<img src="images/logo_mc.png" alt="">
+			<img src="images/logo_fapesq.png" alt="">
+			<img src="images/logo_silibrina.png" alt="">
+		</section>
+		<section class="clear"></section><!-- Quebra de linhas -->
+	</footer> -->
+ <!-- Fim da footer -->

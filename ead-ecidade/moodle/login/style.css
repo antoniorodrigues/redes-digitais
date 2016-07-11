@@ -1,0 +1,263 @@
+header[role=banner]{
+    display: none;
+}
+
+
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+  min-height: 100%;
+  background: url(./images/bg_top.png) top center no-repeat;
+}
+
+div[class=clearfix] {
+    display: none;
+}
+.loginbox .guestsub {
+    display: none;
+}
+.loginbox .loginpanel .desc {
+    display: none;
+}
+header[class=clearfix]{
+    display: none;
+}
+h2{
+    display: none;
+}
+
+.top .new_user {
+  width: 410px;
+}
+
+div#top-info {
+    display: none;
+}
+
+input#username {
+  padding: 15px 10px;
+  font-size: 14px;
+  width: 193%;
+  border-radius: 5px;
+  border: 1px solid #d9d9d9;
+  background: #fefefe;
+  float: left;
+}
+
+input#password {
+  padding: 15px 10px;
+  font-size: 14px;
+  width: 193%;
+  border-radius: 5px;
+  border: 1px solid #d9d9d9;
+  background: #fefefe;
+  float: left;
+}
+
+
+div#page-content.row-fluid {
+    background-color: initial;
+    margin: initial;
+    border-radius: initial;
+    border: none;
+    padding: initial;
+    max-width: initial;
+    height: initial;
+    overflow: initial;
+    box-sizing: border-box;
+}
+
+
+.content {
+  border-radius: 5px;
+  margin-top: 40px;
+  display: block;
+  clear: both;
+  background: #fff;
+  padding: 15px 10px;
+  box-sizing: border-box;
+  -webkit-box-shadow: 0 0 4px 1px rgba(0,0,0,0.1);
+  box-shadow: 0 0 4px 1px rgba(0,0,0,0.1);
+}
+
+
+
+.navbar-default {
+  background-color: #F97D6D;
+  border-color: #F97D6D;
+  height: 65px;
+  color: black;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: black;
+  height: 65px;
+  background-color:  #F97D6D;
+}
+.navbar .nav>li>a {
+  text-shadow: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: black;
+  height: 65px;
+  padding-top: 20px;
+}
+.navbar-default .navbar-nav>li:hover {
+  color: white;
+  height: 65px;
+  background-color: #C86357;
+}
+.navbar-default .navbar-nav>li>a:hover {
+  color: white;
+  height: 65px;
+  background-color: #C86357;
+}
+.top {
+  padding: 0px 0;
+  display: block;
+  position: relative;
+}
+.top .logo{
+    /*width: 110%;*/
+    float: left;
+    height: auto;
+    background: #78909c;
+    box-sizing: border-box;
+    padding: 14px 0;
+    position: relative;
+    margin-left: 14px;
+}
+.top .logo:after{
+    content: " ";
+    width: 20px;
+    height: 20px;
+    background: #4a5a62;
+    position: absolute;
+    bottom: 4px;
+    left: -10px;
+    z-index: -1;
+    transform: rotate(45deg); 
+    -ms-transform: rotate(45deg); 
+    -webkit-transform: rotate(45deg);
+
+}
+.top .logo:before{
+    content: " ";
+    width: 20px;
+    height: 20px;
+    background: #4a5a62;
+    position: absolute;
+    bottom: 4px;
+    right:-10px;
+    z-index: -1;
+    transform: rotate(45deg); 
+    -ms-transform: rotate(45deg); 
+    -webkit-transform: rotate(45deg);
+
+}
+
+.li_image_top {
+    background-color: #F97D6D;
+    height: 65px; 
+    width: 260px;
+}
+
+.image_top {
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 51px;
+    width: 190px;
+}
+
+
+.bt_main {
+  padding: 5px 20px;
+  margin-left: 5px;
+  font-size: 15px;
+  text-transform: uppercase;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+.bt_second_action {
+  background: #78909C;
+  height: 50px;
+  border: 1px solid gray;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+}
+.default_size{
+	width: 960px;
+	margin: 0 auto;
+}
+.content{
+	border-radius: 5px;
+	display: block;
+	clear: both;
+	background: #fff;
+	padding: 15px 10px;
+	box-sizing:border-box;
+	-webkit-box-shadow: 0 0 4px 1px rgba(0,0,0,0.1);
+box-shadow: 0 0 4px 1px rgba(0,0,0,0.1);
+}
+
+
+.top .new_user{
+	width: 210px;
+	height: 150px;
+	float:right;
+	text-align: center;
+}
+
+.entrada{
+	width: 400px;
+	margin-top: 15px;
+	display: block;
+	position: relative;
+	padding: 0 15px;
+	box-sizing: border-box;
+}
+.cursos_disponiveis{
+	float: right;
+	margin-right: 30px;
+}
+.cursos_disponiveis ul{
+	list-style: none;
+}
+.cursos_disponiveis .lista .titulo{
+	text-transform: uppercase;
+	color: #78909c;
+	font-weight: 300;
+}
+.cursos_disponiveis .lista{
+	margin: 15px 0;
+	padding-left: 50px;
+	height: 32px;
+	float: left;
+	background: url(images/ic_cursos.png);
+	background-position: 0 5px;
+	background-repeat: no-repeat;
+}
+
+
+/*Estilo do rodape*/
+footer{
+	position: relative;
+	display: block;
+	margin-top: 15px !important;
+}
+footer p{
+	color: #929292;
+	font-size: 11px;
+	padding-bottom: 5px;
+}
+footer .desenvolvido{
+	width: 145px;
+	float: left;
+}
+footer .realizacao{
+	width: 380px;
+	float: right;
+}
