@@ -60,9 +60,6 @@ function game_hangman_continue( $id, $game, $attempt, $hangman, $newletter, $act
         if ($game->param8) {
             // Have to delete -.
             $answer2 = str_replace( '-', '', $answer2);
-            $answer2 = str_replace( 'Ç', '', $answer2);
-            $answer2 = str_replace( 'Ã', '', $answer2);
-            $answer2 = str_replace( 'Õ', '', $answer2);
         }
 
         $allletters = game_getallletters( $answer2, $game->language, $game->userlanguage);
@@ -77,9 +74,6 @@ function game_hangman_continue( $id, $game, $attempt, $hangman, $newletter, $act
 
         if ($game->param8) {
             $allletters .= '-';
-            $allletters .= '';
-            $allletters .= '';
-            $allletters .= '';
         }
 
         if ($game->param7 == false) {
@@ -300,40 +294,12 @@ function hangman_showpage(&$done, &$correct, &$wrong, $max, &$wordline, &$wordli
         $newletter = ' ';
     }
 
-
-    if ( $newletter == 'A') {
-    	$letters = $hangman->letters;
-    	if ($newletter != null) {
-        	if (game_strpos( $letters, $newletter) === false) {
-            	$letters .= $newletter;
-        	}
-	    	if (game_strpos( $letters, 'Ã') === false) {
-            	$letters .= 'Ã';
-        	}
-    	}
-	} 
-	elseif ( $newletter == 'C') {
-        $letters = $hangman->letters;
-        if ($newletter != null) {
-            if (game_strpos( $letters, $newletter) === false) {
-                $letters .= $newletter;
-            }
-            if (game_strpos( $letters, 'Ç') === false) {
-                $letters .= 'Ç';
-            }
-        }
-    }
-
-	else {
     $letters = $hangman->letters;
     if ($newletter != null) {
         if (game_strpos( $letters, $newletter) === false) {
             $letters .= $newletter;
         }
     }
-	
-
-	}
 
     $links = "";
 
@@ -405,22 +371,7 @@ function hangman_showpage(&$done, &$correct, &$wrong, $max, &$wordline, &$wordli
             continue;
         }
 
-
-		if ($char == 'A'){
-			if (game_strpos($word, $char) === false and game_strpos($word, 'Ã') === false) {
-            	$links .= "\r\n<font size=\"$fontsize\" color=\"red\">$char </font>";
-            	$wrong++;
-			}else {
-				 $links .= "\r\n<B><font size=\"$fontsize\">$char </font></B> ";
-			}
-        }elseif ($char == 'C'){
-            if (game_strpos($word, $char) === false and game_strpos($word, 'Ç') === false) {
-                $links .= "\r\n<font size=\"$fontsize\" color=\"red\">$char </font>";
-                $wrong++;
-            }else {
-                 $links .= "\r\n<B><font size=\"$fontsize\">$char </font></B> ";
-            }
-        }elseif (game_strpos($word, $char) === false) {
+        if (game_strpos($word, $char) === false) {
             $links .= "\r\n<font size=\"$fontsize\" color=\"red\">$char </font>";
             $wrong++;
         } else {
