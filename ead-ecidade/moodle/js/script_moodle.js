@@ -10,28 +10,27 @@ if (id_pagina != "page-login-index") {
 	atualizaInterfaceGeral();
 	atualizaInterfaceMenuLateral();
 	atualizaInterfaceInscricao();
-	//atualizaInterfaceAtividades();
 	atualizaInterfaceCursos();
 }
 
 function atualizaInterfaceGeral() {
-	$(".navbar-inner" ).prepend( "<div class='li_image_top'><section class='top'>  <nav class='principal'>    <article class='logo'> <img src='http://moodle.cloud.citta.org.br/moodle/login/images/logo_ecidade.png' title='Logo e-Cidade' class='image_top' alt=''> </article>  </section> </div>" );
-	$("div#page-content.row-fluid ").prepend("<div id='top-info'><h2 id='main-title'>PAINEL ALUNO </h2><hr><h4 class='subtitle'>INFORMAÇÕES GERAIS</h4></div>");
+	$(".navbar-inner" ).prepend(general.top_logo);
+	$("div#page-content.row-fluid ").prepend(general.inf_gerais);
 
 	console.log($( ".block_tree.list"));
 
-	$( ".block_tree.list").prepend('<li class="contains_branch collapsed" aria-expanded="false"><p class="tree_item branch" tabindex="0" data-expandable="1" data-loaded="1"><span>MEUS DADOS</span></p><ul id="meus-dados-menu">        <li class="item_with_icon">        <p class="tree_item hasicon" id="item"><a class="submenu-lateral" title="PERFIL" href="http://moodle.cloud.citta.org.br/moodle/user/profile.php?"><img alt="Fórum" src="http://moodle.cloud.citta.org.br/moodle/theme/image.php/clean/forum/1450273960/icon" title="Fórum" class="smallicon navicon"><span class="item-content-wrap">Perfil</span></a>      </p>    </li>       <li class="item_with_icon">  <p class="tree_item hasicon" id="expandable_branch_16"><a class="submenu-lateral" title="DADOS DA CONTA" href="http://moodle.cloud.citta.org.br/moodle/user/edit.php?"><img alt="Fórum" src="http://moodle.cloud.citta.org.br/moodle/theme/image.php/clean/forum/1450273960/icon" title="FÓRUM" class="smallicon navicon"><span class="item-content-wrap">Dados da Conta</span></a>        </p>        </li>         <li class="item_with_icon">      <p class="tree_item hasicon" id="expandable_branch_16"><a class="submenu-lateral" title="MENSAGENS" href="http://moodle.cloud.citta.org.br/moodle/message/index.php"> <img alt="Fórum" src="http://moodle.cloud.citta.org.br/moodle/theme/image.php/clean/forum/1450273960/icon" title="Fórum" class="smallicon navicon"><span class="item-content-wrap">Mensagens</span></a>        </p>    </li>   </ul></li>');
-	$( ".block_tree.list").prepend('<p class="tree_item leaf hasicon"><a href="http://moodle.cloud.citta.org.br/moodle"><img class="smallicon navicon" alt="" src="http://moodle.cloud.citta.org.br/moodle/theme/image.php/clean/core/1452782018/i/navigationitem"><span class="item-content-wrap">INÍCIO</span></a></p>');
-	$( ".block_tree.list").append('<p class="tree_item leaf hasicon"><a href="http://moodle.cloud.citta.org.br/moodle/?redirect=0"><img class="smallicon navicon" alt="" src="http://moodle.cloud.citta.org.br/moodle/theme/image.php/clean/core/1452782018/i/navigationitem"><span class="item-content-wrap">CURSOS DISPONÍVEIS</span></a></p>');
+	$( ".block_tree.list").prepend(general.menu_user);
+
+	$( ".block_tree.list").prepend(general.op_inicio);
+	$( ".block_tree.list").append(general.op_cursos_disponiveis);
 	$("li.type_unknown.depth_1.contains_branch.current_branch").attr("aria-expanded","false");
 	$(".type_course.depth_3.collapsed.contains_branch > p.tree_item.branch").attr('class', 'tree_item hasicon');
 	$(".type_system.depth_2.contains_branch >ul >li.collapsed.contains_branch > p.tree_item.branch").attr('class', 'tree_item hasicon'); 
 
 	if (id_pagina != "page-login-index") {
-		$("div#page").append('<div id="footerbottom"><hr>  <section class="bottom">  <nav class="principal">         <article class="logo-moodle">  <div><h4 style="margin-bottom: 10px">Desenvolvido em:</h4></div> <img class="logo" src="http://moodle.cloud.citta.org.br/moodle/e-Cidade-EAD--master/assets/logo_moodle.png" title="Logo Moodle">  </article>   <article class="logos-silibrina">  <div><h4 style="margin-bottom: 10px">Financiado e Desenvolvido por:</h4></div>  <img id="logo" src="http://moodle.cloud.citta.org.br/moodle/e-Cidade-EAD--master/assets/logo_brasil.png" title="Logo Brasil"> <img id="logo" src="http://moodle.cloud.citta.org.br/moodle/e-Cidade-EAD--master/assets/logo_fapesq.png" title="Logo FAPESQ-PB">  <img id="logo" src="http://moodle.cloud.citta.org.br/moodle/e-Cidade-EAD--master/assets/logo_silibrina.png" title="Logo Silibrina Tecnologia">   </article>     </nav>   </section></div>');
+		$("div#page").append(general.footer);
 	}	
 	$("span.usertext").prepend("Olá, "); 
-	//$(".course-content").prepend('<div id="atividades-cursos"  class="row-fluid" style=" width: 900px;" ><div class="span2 item-curso" id="atv_conteudos"  style="background-image:url(\'http://moodle.cloud.citta.org.br/moodle/images/ic_conteudos_do_curso.png\' ); cursor: pointer;" onclick="window.location=\'http://moodle.cloud.citta.org.br/moodle/mod/page/view.php?id=3\';"></div>  <div class="span2 item-curso" id="atv_avaliacao" style="background-image:url(\'http://moodle.cloud.citta.org.br/moodle/images/ic_avaliacao.png\');cursor: pointer;" onclick="window.location=\'http://moodle.cloud.citta.org.br/moodle/mod/quiz/view.php?id=4\';"></div>  <div class="span2 item-curso" id="atv_forum" style="background-image:url(\'http://moodle.cloud.citta.org.br/moodle/images/ic_forum.png\');cursor: pointer;" onclick="window.location=\'http://moodle.cloud.citta.org.br/moodle/mod/forum/view.php?id=1\';"></div> <div class="span2 item-curso" id="atv_feedback" style="background-image:url(\'http://moodle.cloud.citta.org.br/moodle/images/ic_feedback.png\');cursor: pointer;" onclick="window.location=\'http://moodle.cloud.citta.org.br/moodle/mod/feedback/view.php?id=5\';"></div></div>'); 
 
 	console.log($("ul >li.type_system.depth_2.contains_branch[aria-expanded='true'] >p >span").text());
 	if ($("ul >li.type_system.depth_2.contains_branch[aria-expanded='true'] >p >span").text() != 'Meus cursos'){
@@ -79,45 +78,6 @@ function atualizaInterfaceInscricao() {
 			}
 		} catch (err) {}
 	}
-}
-
-
-function atualizaInterfaceAtividades() {
-	var atividades_curso = $('.unlist >li >div >div >a');
-	var link_atividades = {};
-	for (i=0; i<= atividades_curso.length; i++){
-		try{
-			if (atividades_curso[i].href.indexOf('mod/forum') > -1){
-				link_atividades.forum = (atividades_curso[i].href);
-				$('div#atv_forum').attr('onclick', 'window.location="' + link_atividades.forum +'";');
-			}
-		 } catch (err) {}
-
-		try{
-			if (atividades_curso[i].href.indexOf('mod/quiz') > -1){
-				link_atividades.avaliacao = (atividades_curso[i].href);
-				 $('div#atv_avaliacao').attr('onclick', 'window.location="' + link_atividades.avaliacao +'";');
-			}
-		} catch (err) {}
-
-		try {
-			if (atividades_curso[i].href.indexOf('mod/feedback') > -1){
-				link_atividades.feedback = (atividades_curso[i].href);
-				 $('div#atv_feedback').attr('onclick', 'window.location="' + link_atividades.feedback +'";');
-			
-			}
-		 } catch (err) {}
-
-		try{
-			if (atividades_curso[i].href.indexOf('mod/page') > -1){
-				link_atividades.conteudos = (atividades_curso[i].href);
-				 $('div#atv_conteudos').attr('onclick', 'window.location="' + link_atividades.conteudos +'";');
-			
-			}
-
-		} catch (err) {}
-	}
-
 }
 
 
