@@ -77,6 +77,9 @@ function game_hangman_continue( $id, $game, $attempt, $hangman, $newletter, $act
 
         if ($game->param8) {
             $allletters .= '-';
+            $allletters .= '';
+            $allletters .= '';
+            $allletters .= '';
         }
 
         if ($game->param7 == false) {

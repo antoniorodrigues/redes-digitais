@@ -16,6 +16,7 @@ if (id_pagina != "page-login-index") {
 function atualizaInterfaceGeral() {
 	$(".navbar-inner" ).prepend(general.top_logo);
 	$("div#page-content.row-fluid ").prepend(general.inf_gerais);
+	$("#block-region-side-pre").prepend(general.inf_menu_p);
 
 	console.log($( ".block_tree.list"));
 
@@ -74,7 +75,7 @@ function atualizaInterfaceInscricao() {
 		try {
 			var link_desmatricular = itens_admin[i].href; 
 			if (link_desmatricular.indexOf('unenrolself') > -1){ 		
-				$(".course-content").prepend('<div class="button-matricular button2" onclick="window.location=\''+ itens_admin[i].href +'\';">DESMATRICULAR</div>'); console.log(link_desmatricular);
+				$(".course-content").prepend('<div class="button-matricular button2" onclick="window.location=\''+ itens_admin[i].href +'\';">CANCELAR MATRÍCULA</div>'); console.log(link_desmatricular);
 			}
 		} catch (err) {}
 	}
@@ -109,6 +110,18 @@ function atualizaInterfaceCursos(){
 	}
 
 	else if (id_pagina == "page-course-view-topics"){
+		$('#region-main-box').attr('class', "span12");
+		$('#region-main').attr('class', "span9 pull-right");
+		$('#block-region-side-pre').attr('class', "span3 desktop-first-column block-region");
+
+		
+		$('h4.subtitle').css('margin-top', '-20px');
+	//	$('li.activity.forum').find('img').attr('src', '/moodle/images/icones_config/ic_forum.png')
+
+
+		var title_course = $('ul.topics > li#section-0').attr('aria-label');
+		$('#top-info ').append("<div style=\"margin-left:26%\"><h5>Início</h5>><h5 class=\"link\">Meus Cursos</h5>><h5 class=\"link\">" + title_course + "</h5></div>");
+
 		var eventoInterface = setInterval(atualizarMenu, 100);
 
 		$('#expandable_branch_0_mycourses').css('background-color', '#F97D6D');

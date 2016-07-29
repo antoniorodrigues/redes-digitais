@@ -36,7 +36,7 @@ $string[ 'eventgameviewed'] = 'Game viewed';
 $string[ 'eventgameplayed'] = 'Game played';
 
 // File cross/cross_class.php.
-$string[ 'lettersall'] = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+$string[ 'lettersall'] = 'ABCDEFGHIJKLMNOPQRSTUVWXYZÇÃÕ';
 
 // File cross/crossdb_class.php.
 $string[ 'and'] = 'and';

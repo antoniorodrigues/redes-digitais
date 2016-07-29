@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html  dir="ltr" lang="pt-br" xml:lang="pt-br">
    <head>
-      <title>Moodle e-cidade: Acesso ao site</title>
+      <title>Moodle e-cidade: Sobre os cursos</title>
       <link rel="shortcut icon" href="http://moodle.cloud.citta.org.br/moodle/theme/image.php/clean/theme/1453313525/favicon" />
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
       <meta name="keywords" content="moodle, Moodle e-cidade: Acesso ao site" />

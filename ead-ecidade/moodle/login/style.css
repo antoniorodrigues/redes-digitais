@@ -8,6 +8,8 @@ body {
   margin: 0;
   min-height: 100%;
   background: url(./images/bg_top.png) top center no-repeat;
+  background-color: rgba(211, 211, 211, 0.38);
+
 }
 
 div[class=clearfix] {
@@ -304,8 +306,10 @@ footer p{
 footer .desenvolvido{
 	width: 145px;
 	float: left;
+	margin-left: -10%;
 }
 footer .realizacao{
 	width: 380px;
 	float: right;
+    margin-right: -10%;
 }
